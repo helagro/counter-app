@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="day_over"><u>Day over</u></string>
+</resources>
